@@ -23,6 +23,12 @@ Turn a collection of personal clips into a short, coherent, upload-ready TikTok.
 - Use restrained on-screen text: one strong hook plus, at most, one supporting beat. Avoid labeling every clip.
 - Supply a creative TikTok caption and 5–8 relevant hashtags with the final export. Keep hashtags specific to the actual video.
 
+## Reference formats
+
+- Use [the reference audit](references/travel-lifestyle-reference-audit.md) to select a format that fits the supplied footage: cinematic hero, caption-led city guide, or slow lifestyle micro-vlog.
+- Borrow structure, pacing, and text treatment—not another creator’s footage, watermark, exact wording, or music. Do not append a TikTok-branded end card unless the user explicitly asks.
+- Prefer one clear format per edit. Do not force dense captioning onto a quiet POV montage or hold a single shot long enough to dilute a city-guide story.
+
 ## Privacy and handoff
 
 - Default to POV and avoid showing the user, their phone, keys, screens, location details, or other personal identifiers when requested.
