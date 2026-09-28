@@ -1,6 +1,16 @@
 # Travel and Lifestyle TikTok Reference Audit
 
-Reviewed 2026-09-28 from three supplied TikTok downloads. Use these as format references, not content to copy. Exact sound titles were not retained in the downloads, so use the described music direction rather than trying to reuse an unidentified track.
+Reviewed 2026-09-28 from three supplied TikTok downloads. Use these as format references, not content to copy. Some downloads do not retain searchable sound credits; use described music direction rather than trying to reuse an unidentified track.
+
+## TikTok sound library
+
+Search these exact names in TikTok’s sound picker first. Availability can vary by account, region, and commercial-use status.
+
+- **Exact match — caption-led city guide:** `Cozy Day (Lofi)` by **The Machinist Beats**. This is the credited sound for the rainy Seattle itinerary reference.
+- **Similar city-guide options:** `Dream of You` by **Burgundy Blues**; `Green love (Lofi)` by **Prodbyecho**; `Calm Lofi/Cafe/Study/Vlog(1492712)` by **Tana Music**.
+- **Warm scenic option:** `Gods creation` by **daniel.mp3**.
+
+Use the exact city-guide track only when its mellow, steady lo-fi pace fits. Choose a fresh nearby sound for new edits, rather than reusing one reference track across posts. The mountain and ferry downloads did not retain searchable sound credits; their exact tracks remain unverified.
 
 ## 1. Cinematic hero shot
 

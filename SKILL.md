@@ -7,6 +7,17 @@ description: "Create polished, privacy-conscious TikTok edits from user-provided
 
 Turn a collection of personal clips into a short, coherent, upload-ready TikTok. Favor a strong visual story over using every file or forcing a target duration.
 
+## Creative intake
+
+- Before a new edit, ask up to three targeted questions for missing decisions: intended story or audience, target runtime and reference format, and text/music or privacy constraints. Do not repeat answers already supplied.
+- Offer a clear default when the user wants speed. Confirm the chosen creative direction in one short sentence before cutting.
+- Before publishing, get explicit approval for that exact final export, caption, hashtags, and selected TikTok sound.
+
+## Default drop-clips workflow
+
+- When the user supplies a batch of clips, review every usable clip, choose the strongest narrative and reference format, and create the finished stitched edit without requiring a shot list from the user.
+- Deliver the export with one audience-relevant caption and 5–8 specific hashtags. Optimize the hook, keyword clarity, watchability, and metadata for discovery; never claim or guarantee views, traction, or a trend.
+
 ## Edit standard
 
 - Review each source clip before choosing the sequence. Pick only clips that advance the story or create a purposeful visual beat.
@@ -16,12 +27,20 @@ Turn a collection of personal clips into a short, coherent, upload-ready TikTok.
 - Let runtime serve pacing. A dense 35–60 seconds is usually right for a simple errand or day-in-the-life story, but verify the rendered duration and that visible content continues to the final beat.
 - Use only editing features that improve this specific footage. Prefer CapCut’s available stock music, transitions, text, color, and framing tools when they fit. Do not claim an unavailable or cloud-only feature was used.
 
+## CapCut and TikTok workflow
+
+- Use CapCut as the primary editor when it is available. Audit available local features and apply every feature that materially improves the selected footage: precise trims, beat-aware cuts, speed ramps, stabilization, reframing, color correction, audio mixing, text, captions, and transitions.
+- Use TikTok’s available creation tools for final sound selection, safe-zone review, caption/cover design, and any effect that strengthens the chosen format. Search TikTok’s sound picker first for reference tracks and close alternatives.
+- Do not force effects, transitions, filters, or AI tools merely because they exist. Cloud-only processing or any feature that uploads personal footage needs the user’s explicit approval first.
+- Record the CapCut and TikTok features actually used in every handoff. Never claim a feature was used when it was not.
+
 ## Music and captions
 
 - Never reuse the prior track by default. Check the available music library and select a different track matching the activity, pacing, and mood. State the track or sound direction in the handoff.
 - Do not promise a sound, caption, or hashtag will trend. Recommend relevant, natural metadata instead.
 - Use restrained on-screen text: one strong hook plus, at most, one supporting beat. Avoid labeling every clip.
 - Supply a creative TikTok caption and 5–8 relevant hashtags with the final export. Keep hashtags specific to the actual video.
+- Search the reference sound library before choosing music. Confirm availability in the user’s TikTok or CapCut account and region at edit time.
 
 ## Reference formats
 
